@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 官方身体青 #54BAD1 的淡版背景 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="270"
+        android:endColor="@color/sky_bottom"
+        android:startColor="@color/sky_top"
+        android:type="linear" />
+</shape>

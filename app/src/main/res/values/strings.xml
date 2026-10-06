@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">彩蝶鲨桌宠</string>
+    <!-- 以下均为官方图鉴里的分类信息，没有自编内容 -->
+    <string name="tagline">NO.110 · 水属性 · 轻飘飘精灵</string>
+    <string name="grant">开启悬浮窗权限</string>
+    <string name="toggle">放彩蝶鲨出去飘</string>
+    <string name="tips">点一下：Q 弹 + 水花 + 啵声。连点两下：原地转圈。长按：呼出喂食 / 摸摸 / 资料 / 躲起来。息屏后自动停下，不会费电。</string>
+</resources>

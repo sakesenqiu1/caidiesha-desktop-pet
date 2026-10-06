@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 配色全部取自原图里彩蝶鲨的真实用色（work/SamplePalette 统计结果）：
+     身体 #54BAD1 / 高光 #95EEFC / 鱼鳍 #F49599 / 嘴 #6569BA -->
+<resources>
+    <color name="sky_top">#FFE8F6F9</color>
+    <color name="sky_bottom">#FFA6DAE8</color>
+    <color name="deep">#FF214B57</color>
+    <color name="card">#F2FFFFFF</color>
+    <color name="accent">#FF3E9CB5</color>
+    <color name="accent_light">#FF54BAD1</color>
+    <color name="fin">#FFF49599</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ic_bg">#FF54BAD1</color>
+</resources>

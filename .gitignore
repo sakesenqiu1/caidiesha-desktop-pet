@@ -1,0 +1,35 @@
+# 构建产物（build.ps1 每次重新生成）
+app/build/
+work/classes/
+work/strict/
+work/out/*.gif
+work/out/*.png
+work/*.class
+tool.log
+
+# 签名用的私钥：不要提交
+*.keystore
+*.jks
+
+# 编辑器 / 系统
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 工作目录里的一次性产物（保留参考图 ref_*.jpg）
+work/classes/
+work/strict/
+work/out/
+work/apkcheck*/
+work/apkimgs*/
+work/audit/
+work/c1*/
+work/c2*/
+work/finalcheck*/
+work/physcheck/
+work/preview/
+work/probe*/
+*.args
+*.class
